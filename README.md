@@ -1,6 +1,2 @@
 
-To run flask application 
-
-```
-python app.py
-```
+#To run flask application ["python application.py"]
